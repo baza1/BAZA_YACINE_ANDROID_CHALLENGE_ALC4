@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BazaYacineSimpleApp</string>
+    <string name="welcome_to_alc_4_0">Welcome to ALC 4.0</string>
+    <string name="about_alc">ABOUT ALC</string>
+    <string name="my_profile">MY PROFILE</string>
+    <string name="baza_yacine">BAZA Yacine</string>
+    <string name="track_android">Track : Android</string>
+    <string name="country_algeria">Country : Algeria</string>
+    <string name="email_b_yacine100_yahoo_fr">Email : b.yacine100@yahoo.fr</string>
+    <string name="phone_number_2135879156">Phone Number : +2135879156</string>
+    <string name="slack_username_baza_yacine">Slack Username : BAZA Yacine</string>
+    <string name="image_profile">image profile</string>
+</resources>
